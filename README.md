@@ -12,6 +12,7 @@ The datasets we worked on were taken from [This link](https://www.kaggle.com/mke
 
 ## Files descriptions
 The directory of this homework consists of two files:
+
 1 `Homework2.ipynb`
 > In this Jupyter notebook file there are all the answers to the RQs, with comments, considerations about the approach to the data and results. The entire notebook is already runned so the analysis is ready to be read.
 
@@ -20,6 +21,9 @@ The directory of this homework consists of two files:
 
 ****************************************************************
 **Homework made by:**
+
 Tommaso Berritto
+
 Martina Betti
+
 Arsen Yerbol
